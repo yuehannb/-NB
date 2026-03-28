@@ -1,0 +1,18 @@
+# Blacklist for MiniWorld Royale Interception
+
+## Package Names
+com.miniworldroyale.sparkgame
+com.miniworldroyale.sparkgame.*
+com.miniworldroyale.*
+
+## Related Package Variants
+com.miniworldroyale.sparkgame.v1
+com.miniworldroyale.sparkgame.v2
+
+## Domain Names
+miniworldroyale.com
+*.miniworldroyale.com
+
+## Network Detection Rules
+- Block traffic to and from miniworldroyale.com
+- Alert on package access for com.miniworldroyale.sparkgame
