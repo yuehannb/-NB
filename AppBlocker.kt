@@ -1,0 +1,1 @@
+Android application detection and blocking implementation for MiniWorld Royale
